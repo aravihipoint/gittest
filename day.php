@@ -1,3 +1,4 @@
 <?php 
-good day
+echo "good day";
+echo "nice day";
 ?>
