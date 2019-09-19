@@ -1,3 +1,3 @@
 <?php 
-good day
+echo "good day";
 ?>
