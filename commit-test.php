@@ -1,3 +1,3 @@
 xyzzzz
 aaddedb
-thanks
+/*thanks*/
